@@ -1,7 +1,7 @@
 # Tic-Tac-Toe-Machine
 ### Un reto en Machine Learning: de árboles, podas y hasta redes neuronales. 
 
-En este repositorio voy a llevar un proyecto para que en conjunto, quien quiera y tenga tenga interés, pueda comezar a dar sus primeros pasos en ML.
+En este repositorio voy a llevar un proyecto para que en conjunto, quien quiera y tenga tenga interés pueda experimentar con los princpios de ML aplicado a juegos.
 
 Acá no estoy enseñando Python, para esto tengo otro repositorio con notas básicas donde podrás encontrar información necesaria más no suficiente.
 
