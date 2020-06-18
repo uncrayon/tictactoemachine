@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Machine
+# Tic-Tac-Toe-Machine
 ### Un reto en Machine Learning: de árboles, podas y hasta redes neuronales. 
 
 En este repositorio voy a llevar un proyecto para que en conjunto, quien quiera y tenga tenga interés, pueda comezar a dar sus primeros pasos en ML.
